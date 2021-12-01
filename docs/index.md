@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Brigham Chen's Resume
 ---
-# Brigham Young
+# Brigham Chen
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
