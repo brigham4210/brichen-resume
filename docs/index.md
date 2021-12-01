@@ -3,7 +3,7 @@ layout: cv
 title: Brigham Chen's Resume
 ---
 # Brigham Chen
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+A student studys Computer Science in Brigham Young University- Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
