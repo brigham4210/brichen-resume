@@ -6,7 +6,7 @@ title: Brigham Chen's Resume
 A student studys Computer Science in Brigham Young University- Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="brigham4210@gmail.com">brigham4210@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -77,8 +77,8 @@ __Pinnacle Management Group__,
 __Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2019`
+__Service Missionary__, Fort worth, Texas
 
 
 
