@@ -68,12 +68,12 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2021-2023`
+__Math Tutor__, BYUI
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2019`
+__Service Missionary__, Fort Worth, Twxas
 
 
 
