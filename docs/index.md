@@ -3,7 +3,7 @@ layout: cv
 title: Brigham Chen's Resume
 ---
 # Brigham Chen
-A student studys Computer Science in Brigham Young University- Idaho
+A student studies Computer Science in Brigham Young University- Idaho
 
 <div id="webaddress">
 <a href="brigham4210@gmail.com">brigham4210@gmail.com</a>
@@ -16,15 +16,10 @@ A student studys Computer Science in Brigham Young University- Idaho
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.7 Major GPA
 
 
 ## Related Experience
@@ -73,8 +68,8 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2021-2022`
+__Math Tutor__, BYUI
 
 
 `2017-2019`
