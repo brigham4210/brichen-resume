@@ -55,14 +55,14 @@ __LA Cram School__, teacher
 __Service Missionary__, Fort worth, Texas
 English Speaking, that made me become a bilingual who can speak English and Chinese.
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
 ### Interest
 - Rubic`s cubes
 - Volleyball
 - Cooking
+
+
+<!-- ### Footer
+
+Last updated: December 2021 -->
+
+
