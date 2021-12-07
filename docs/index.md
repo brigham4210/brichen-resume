@@ -8,72 +8,52 @@ A student studies Computer Science in Brigham Young University- Idaho
 <div id="webaddress">
 <a href="brigham4210@gmail.com">brigham4210@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/brigham-chen-22aa121b6/">LinkedIn</a>
+| <a href="https://github.com/brigham4210">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`Expected 2024`
+`September 2020 - Expected June 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
+BS, Computer Science - Data Science Minor
+Computer Programming Certificate, Machine Learning Fundamentals Certificate
+- 4.0 Major GPA
 
-- 3.7 Major GPA
-
+# Skills
+• Python, JavaScript
+• Tableau
+• Microsoft Office Suite (Word, Powerpoint, and Excel)
 
 ## Related Experience
 
-### Internships
+### Project
+Artificial Intelligence Society | BYU-Idaho Rexburg, Idaho Student Data Analyst September 2021 - Present • Try to get data from Utah Jazz to help them build the model, and our goal is to help them win the Championship
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+### WORK EXPERIENCE
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`October 2021 - present`
+__Brigham Young University- Idaho__, Math tutor
 
-### Data Science Lead
+-Try to help all of the students who are struggling with Math.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`April 2020 - September 2021`
+__LA Cram School__, teacher
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Help the students improve their ability of using English
+- Operate the work and the schedule in the school
+- Design classes for the students
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
 ## Service and Work History
 
-`2021-2022`
-__Math Tutor__, BYUI
-
-
 `2017-2019`
 __Service Missionary__, Fort worth, Texas
+English Speaking, that made me become a bilingual who can speak English and Chinese.
 
 
 
@@ -82,3 +62,7 @@ __Service Missionary__, Fort worth, Texas
 Last updated: May 2013 -->
 
 
+### Interest
+- Rubic`s cubes
+- Volleyball
+- Cooking
