@@ -51,7 +51,7 @@ __LA Cram School__, teacher
 
 ## Service and Work History
 
-`2017-2019`
+`September 2017- September 2019`
 __Service Missionary__, Fort worth, Texas
 English Speaking, that made me become a bilingual who can speak English and Chinese.
 
